@@ -1,0 +1,26 @@
+<script language="javascript">
+      function validarPassword()
+      {
+          if(document.getElementById("login").value.length == 0)
+              alert('ERRO: O campo login não pode estar vazio');
+          else
+              if(document.getElementById("password").value.length == 0)
+                   alert('ERRO: O campo password não pode estar vazio');
+              else
+                  if(document.getElementById("password").value.length < 8)
+                      alert('ERRO: Password demasiado curta!');
+                  else
+                      document.getElementById("form1").submit();
+      }
+</script>
+
+
+<form action="script.php" method="POST" id="form1">
+    Login: <input type="text" size="10" name="login" id="login"><br>
+    Password: <input type="password" size="8" name="password" id="password"><br>
+    <input type="button" value="Efectuar Login" name="blogin" onclick="validarPassword()"/>
+    <!-- <input type="submit" value="Efectuar Login" /> -->
+</form>
+
+
+

@@ -1,0 +1,392 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2e5da05e-aaf9-4153-a03c-6197f1be8170" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20092010/crypto/mypicture.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ped2012/iagenda/PHPMailer/examples/images/phpmailer.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ped2012/iagenda/PHPMailer/examples/images/phpmailer_mini.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ped2012/iagenda/PHPMailer/test/test.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ped2012/iagenda/PHPMailer/test_script/images/aikido.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ped2012/iagenda/PHPMailer/test_script/images/bkgrnd.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ped2012/iagenda/PHPMailer/test_script/images/phpmailer.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ped2012/iagenda/PHPMailer/test_script/scripts/clipboard.swf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ped2012/iagenda/PHPMailer/test_script/styles/help.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ped2012/iagenda/PHPMailer/test_script/styles/magnifier.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ped2012/iagenda/PHPMailer/test_script/styles/page_white_code.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ped2012/iagenda/PHPMailer/test_script/styles/page_white_copy.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ped2012/iagenda/PHPMailer/test_script/styles/printer.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ped2012/iagenda/PHPMailer/test_script/styles/wrapping.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/aulasped_.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/sass_stdlib.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20092010/agenda/alterar.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20092010/agenda/apagar.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20092010/agenda/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20092010/agenda/insere.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20092010/agenda/ver.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20092010/contador.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20092010/contador.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20092010/crypto/aes.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20092010/crypto/cert01.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20092010/crypto/cert02.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20092010/crypto/cert03.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20092010/crypto/crypto01.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20092010/crypto/hash.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20092010/crypto/md5.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20092010/crypto/mycert.pem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20092010/crypto/mykey.pem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20092010/crypto/rc6.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20092010/crypto/rsa01.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20092010/crypto/sha1.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20092010/ficheiro.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20092010/fichform.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20092010/file01.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20092010/file02.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20092010/form.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20092010/listdir.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20092010/login.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20092010/nbproject/private/private.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20092010/nbproject/private/private.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20092010/nbproject/project.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20092010/nbproject/project.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20092010/ola.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20092010/phpinfo.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20092010/uploadFile.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20092010/webexplorer.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/forms.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/formulario.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nbproject/private/private.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nbproject/private/private.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nbproject/project.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nbproject/project.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ped2011/agenda/User.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ped2011/agenda/agenda.sql" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ped2011/agenda/execute.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ped2011/agenda/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ped2011/agenda/login.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ped2011/agenda/logout.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ped2011/agenda/main.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ped2011/agenda/register.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ped2011/form1.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ped2011/form1.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ped2011/formval.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ped2011/nbproject/private/private.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ped2011/nbproject/private/private.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ped2011/nbproject/project.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ped2011/nbproject/project.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ped2011/ola.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ped2011/phpinfo.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ped2011/script.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ped2011/testeform.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ped2011/upload.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ped2011/upload.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ped2011/utf8.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ped2011/vars.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ped2012/arrayPHP.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ped2012/brincar.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ped2012/iagenda/PHPMailer/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ped2012/iagenda/PHPMailer/README" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ped2012/iagenda/PHPMailer/changelog.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ped2012/iagenda/PHPMailer/class.phpmailer.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ped2012/iagenda/PHPMailer/class.pop3.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ped2012/iagenda/PHPMailer/class.smtp.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ped2012/iagenda/PHPMailer/docs.ini" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ped2012/iagenda/PHPMailer/docs/5.0-phpdocs/blank.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ped2012/iagenda/PHPMailer/docs/5.0-phpdocs/classtrees_PHPMailer.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ped2012/iagenda/PHPMailer/docs/5.0-phpdocs/elementindex.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ped2012/iagenda/PHPMailer/docs/5.0-phpdocs/elementindex_PHPMailer.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ped2012/iagenda/PHPMailer/docs/5.0-phpdocs/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ped2012/iagenda/PHPMailer/docs/5.0-phpdocs/li_PHPMailer.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ped2012/iagenda/PHPMailer/docs/5.0-phpdocs/packages.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ped2012/iagenda/PHPMailer/docs/Callback_function_notes.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ped2012/iagenda/PHPMailer/docs/DomainKeys_notes.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ped2012/iagenda/PHPMailer/docs/Note_for_SMTP_debugging.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ped2012/iagenda/PHPMailer/docs/extending.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ped2012/iagenda/PHPMailer/docs/faq.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ped2012/iagenda/PHPMailer/docs/pop3_article.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ped2012/iagenda/PHPMailer/docs/use_gmail.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ped2012/iagenda/PHPMailer/examples/contents.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ped2012/iagenda/PHPMailer/examples/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ped2012/iagenda/PHPMailer/examples/test_db_smtp_basic.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ped2012/iagenda/PHPMailer/examples/test_mail_advanced.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ped2012/iagenda/PHPMailer/examples/test_mail_basic.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ped2012/iagenda/PHPMailer/examples/test_pop_before_smtp_advanced.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ped2012/iagenda/PHPMailer/examples/test_pop_before_smtp_basic.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ped2012/iagenda/PHPMailer/examples/test_sendmail_advanced.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ped2012/iagenda/PHPMailer/examples/test_sendmail_basic.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ped2012/iagenda/PHPMailer/examples/test_smtp_advanced.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ped2012/iagenda/PHPMailer/examples/test_smtp_advanced_no_auth.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ped2012/iagenda/PHPMailer/examples/test_smtp_basic.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ped2012/iagenda/PHPMailer/examples/test_smtp_basic_no_auth.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ped2012/iagenda/PHPMailer/examples/test_smtp_gmail_advanced.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ped2012/iagenda/PHPMailer/examples/test_smtp_gmail_basic.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ped2012/iagenda/PHPMailer/extras/htmlfilter.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ped2012/iagenda/PHPMailer/language/phpmailer.lang-ar.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ped2012/iagenda/PHPMailer/language/phpmailer.lang-br.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ped2012/iagenda/PHPMailer/language/phpmailer.lang-ca.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ped2012/iagenda/PHPMailer/language/phpmailer.lang-ch.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ped2012/iagenda/PHPMailer/language/phpmailer.lang-cz.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ped2012/iagenda/PHPMailer/language/phpmailer.lang-de.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ped2012/iagenda/PHPMailer/language/phpmailer.lang-dk.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ped2012/iagenda/PHPMailer/language/phpmailer.lang-es.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ped2012/iagenda/PHPMailer/language/phpmailer.lang-et.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ped2012/iagenda/PHPMailer/language/phpmailer.lang-fi.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ped2012/iagenda/PHPMailer/language/phpmailer.lang-fo.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ped2012/iagenda/PHPMailer/language/phpmailer.lang-fr.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ped2012/iagenda/PHPMailer/language/phpmailer.lang-hu.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ped2012/iagenda/PHPMailer/language/phpmailer.lang-it.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ped2012/iagenda/PHPMailer/language/phpmailer.lang-ja.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ped2012/iagenda/PHPMailer/language/phpmailer.lang-nl.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ped2012/iagenda/PHPMailer/language/phpmailer.lang-no.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ped2012/iagenda/PHPMailer/language/phpmailer.lang-pl.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ped2012/iagenda/PHPMailer/language/phpmailer.lang-ro.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ped2012/iagenda/PHPMailer/language/phpmailer.lang-ru.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ped2012/iagenda/PHPMailer/language/phpmailer.lang-se.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ped2012/iagenda/PHPMailer/language/phpmailer.lang-tr.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ped2012/iagenda/PHPMailer/language/phpmailer.lang-zh.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ped2012/iagenda/PHPMailer/language/phpmailer.lang-zh_cn.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ped2012/iagenda/PHPMailer/test/contents.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ped2012/iagenda/PHPMailer/test/phpmailerTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ped2012/iagenda/PHPMailer/test/test_callback.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ped2012/iagenda/PHPMailer/test/testemail.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ped2012/iagenda/PHPMailer/test_script/LGPLv3.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ped2012/iagenda/PHPMailer/test_script/contents.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ped2012/iagenda/PHPMailer/test_script/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ped2012/iagenda/PHPMailer/test_script/scripts/shBrushBash.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ped2012/iagenda/PHPMailer/test_script/scripts/shBrushCSharp.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ped2012/iagenda/PHPMailer/test_script/scripts/shBrushCpp.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ped2012/iagenda/PHPMailer/test_script/scripts/shBrushCss.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ped2012/iagenda/PHPMailer/test_script/scripts/shBrushDelphi.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ped2012/iagenda/PHPMailer/test_script/scripts/shBrushDiff.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ped2012/iagenda/PHPMailer/test_script/scripts/shBrushGroovy.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ped2012/iagenda/PHPMailer/test_script/scripts/shBrushJScript.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ped2012/iagenda/PHPMailer/test_script/scripts/shBrushJava.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ped2012/iagenda/PHPMailer/test_script/scripts/shBrushPerl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ped2012/iagenda/PHPMailer/test_script/scripts/shBrushPhp.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ped2012/iagenda/PHPMailer/test_script/scripts/shBrushPlain.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ped2012/iagenda/PHPMailer/test_script/scripts/shBrushPython.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ped2012/iagenda/PHPMailer/test_script/scripts/shBrushRuby.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ped2012/iagenda/PHPMailer/test_script/scripts/shBrushScala.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ped2012/iagenda/PHPMailer/test_script/scripts/shBrushSql.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ped2012/iagenda/PHPMailer/test_script/scripts/shBrushVb.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ped2012/iagenda/PHPMailer/test_script/scripts/shBrushXml.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ped2012/iagenda/PHPMailer/test_script/scripts/shCore.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ped2012/iagenda/PHPMailer/test_script/scripts/shLegacy.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ped2012/iagenda/PHPMailer/test_script/src/shCore.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ped2012/iagenda/PHPMailer/test_script/src/shLegacy.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ped2012/iagenda/PHPMailer/test_script/styles/shCore.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ped2012/iagenda/PHPMailer/test_script/styles/shThemeDefault.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ped2012/iagenda/PHPMailer/test_script/styles/shThemeDjango.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ped2012/iagenda/PHPMailer/test_script/styles/shThemeEmacs.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ped2012/iagenda/PHPMailer/test_script/styles/shThemeFadeToGrey.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ped2012/iagenda/PHPMailer/test_script/styles/shThemeMidnight.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ped2012/iagenda/PHPMailer/test_script/styles/shThemeRDark.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ped2012/iagenda/PHPMailer/test_script/test.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ped2012/iagenda/crud.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ped2012/iagenda/iagenda.sql" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ped2012/iagenda/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ped2012/iagenda/login.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ped2012/iagenda/logout.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ped2012/iagenda/main.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ped2012/iagenda/recuperar.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ped2012/iagenda/registo.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ped2012/logout.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ped2012/ola.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ped2012/php.ini" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ped2012/phpinfo.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ped2012/session.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ped2012/session01.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ped2012/site/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ped2012/site/opcao1.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ped2012/site/opcao2.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ped2012/site/opcao3.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ped2012/site/opcao4.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ped2012/site/opcao5.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ped2013/Students.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ped2013/User.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ped2013/ola.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ped2013/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/script.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/uploadfile.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/uploadfileform.html" />
+    </list>
+    <ignored path="aulasped_.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="22" />
+    <option name="width" value="1680" />
+    <option name="height" value="1024" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents ProjectPane="true" />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="aulasped_" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="aulasped_" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="aulasped" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <list size="0" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2e5da05e-aaf9-4153-a03c-6197f1be8170" name="Default" comment="" />
+      <created>1362592736211</created>
+      <updated>1362592736211</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="22" width="1680" height="1024" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25275397" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="CHECK_NEW_TODO" value="true" />
+    <option name="myTodoPanelSettings">
+      <value>
+        <are-packages-shown value="false" />
+        <are-modules-shown value="false" />
+        <flatten-packages value="false" />
+        <is-autoscroll-to-source value="false" />
+      </value>
+    </option>
+    <option name="PERFORM_UPDATE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_COMMIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_EDIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_CHECKOUT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ADD_REMOVE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ROLLBACK_IN_BACKGROUND" value="false" />
+    <option name="CHECK_LOCALLY_CHANGED_CONFLICTS_IN_BACKGROUND" value="false" />
+    <option name="CHANGED_ON_SERVER_INTERVAL" value="60" />
+    <option name="SHOW_ONLY_CHANGED_IN_SELECTION_DIFF" value="true" />
+    <option name="CHECK_COMMIT_MESSAGE_SPELLING" value="true" />
+    <option name="DEFAULT_PATCH_EXTENSION" value="patch" />
+    <option name="SHORT_DIFF_HORISONTALLY" value="true" />
+    <option name="SHORT_DIFF_EXTRA_LINES" value="2" />
+    <option name="SOFT_WRAPS_IN_SHORT_DIFF" value="true" />
+    <option name="INCLUDE_TEXT_INTO_PATCH" value="false" />
+    <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
+    <option name="SHOW_FILE_HISTORY_DETAILS" value="true" />
+    <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="true" />
+    <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
+    <option name="LAST_COMMIT_MESSAGE" />
+    <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_FILE_COMMIT" value="false" />
+    <option name="FILE_HISTORY_DIALOG_COMMENTS_SPLITTER_PROPORTION" value="0.8" />
+    <option name="FILE_HISTORY_DIALOG_SPLITTER_PROPORTION" value="0.5" />
+    <option name="ACTIVE_VCS_NAME" />
+    <option name="UPDATE_GROUP_BY_PACKAGES" value="false" />
+    <option name="UPDATE_GROUP_BY_CHANGELIST" value="false" />
+    <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
+    <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+  </component>
+</project>
+

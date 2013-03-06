@@ -1,0 +1,21 @@
+/* 
+    Document   : style
+    Created on : Mar 6, 2013, 1:03:26 AM
+    Author     : carlosserrao
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+root { 
+    display: block;
+}
+
+body {
+    background-color: #009900;
+}
+
+p {
+    text-align: justify;
+    font-family: Arial,monospace;
+    color: #F8F8F8;
+}
