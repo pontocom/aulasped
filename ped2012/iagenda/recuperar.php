@@ -85,14 +85,14 @@ if (isset($_REQUEST['id']) || $_REQUEST['id'] != "") {
     } else {
         mysql_close($db);
         $status = "Dados inválidos. Não consegui efectuar o reset da password!!!";
-        header("Location: index.php?status=" . $status);
+        header("Location: contacto.php?status=" . $status);
     }
 }
 
 if (isset($_REQUEST['do']) && $_REQUEST['do'] == "now") {
     if ($_REQUEST['username'] == "" || $_REQUEST['email'] == "") {
         $status = "Os campos não podem estar vazios!!!!";
-        header("Location: index.php?status=" . $status);
+        header("Location: contacto.php?status=" . $status);
     }
 
     $db = mysql_connect("127.0.0.1", "root", "") or die("Não foi possível ligar à BD!!!");
@@ -113,22 +113,22 @@ if (isset($_REQUEST['do']) && $_REQUEST['do'] == "now") {
 
         $status = gmailMessage(mysql_result($rs, 0, 'id'), mysql_result($rs, 0, 'email'), mysql_result($rs, 0, 'username'));
 
-        header("Location: index.php?status=" . $status);
+        header("Location: contacto.php?status=" . $status);
     } else {
         mysql_close($db);
         $status = "Nao existe esse utilizador!";
-        header("Location: index.php?status=" . $status);
+        header("Location: contacto.php?status=" . $status);
     }
 }
 
 if (isset($_REQUEST['dopasschange']) && $_REQUEST['dopasschange'] == "now") {
     if ($_REQUEST['password'] == "" || $_REQUEST['rpassword'] == "") {
         $status = "As passwords devem estar preenchidas!";
-        header("Location: index.php?status=" . $status);
+        header("Location: contacto.php?status=" . $status);
     } else {
         if ($_REQUEST['password'] != $_REQUEST['rpassword']) {
             $status = "As passwords devem ser iguais!";
-            header("Location: index.php?status=" . $status);
+            header("Location: contacto.php?status=" . $status);
         } else {
 
             $db = mysql_connect("127.0.0.1", "root", "") or die("Não foi possível ligar à BD!!!");
@@ -144,12 +144,12 @@ if (isset($_REQUEST['dopasschange']) && $_REQUEST['dopasschange'] == "now") {
             {
                 $status = "Password alterada com sucesso!";
                 mysql_close($db);
-                header("Location: index.php?status=" . $status);
+                header("Location: contacto.php?status=" . $status);
             } else
             {
                 $status = "Erro ao alterar a password!";
                 mysql_close($db);
-                header("Location: index.php?status=" . $status);
+                header("Location: contacto.php?status=" . $status);
             }
 
         }

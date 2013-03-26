@@ -17,12 +17,12 @@ if(isset($_REQUEST['op']) && $_REQUEST['op']=="delete"){
     if(mysql_query($q, $db))
     {
         mysql_close($db);
-        header('Location: index.php');
+        header('Location: contacto.php');
     }
     else
     {
         mysql_close($db);
-        header('Location: index.php?error='.'Erro, não consegui apagar cliente!!!');
+        header('Location: contacto.php?error='.'Erro, não consegui apagar cliente!!!');
     }
 }
 
@@ -86,12 +86,12 @@ if(isset($_REQUEST['op']) && $_REQUEST['op']=="create")
     if(mysql_query($q, $db))
     {
         mysql_close($db);
-        header('Location: index.php');
+        header('Location: contacto.php');
     }
     else
     {
         mysql_close($db);
-        header('Location: index.php?error='.'Erro, não consegui introduzir cliente!!!');
+        header('Location: contacto.php?error='.'Erro, não consegui introduzir cliente!!!');
     }
 }
 
@@ -106,12 +106,12 @@ if(isset($_REQUEST['op']) && $_REQUEST['op']=="updatenow")
     if(mysql_query($q, $db))
     {
         mysql_close($db);
-        header('Location: index.php?error='.'Cliente alterado com sucesso');
+        header('Location: contacto.php?error='.'Cliente alterado com sucesso');
     }
     else
     {
         mysql_close($db);
-        header('Location: index.php?error='.'Erro, não consegui alterar o cliente!!!');
+        header('Location: contacto.php?error='.'Erro, não consegui alterar o cliente!!!');
     }
 }
 ?>

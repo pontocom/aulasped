@@ -3,13 +3,13 @@ session_start();
 
 if($_REQUEST['login']=='')
 {
-    header("Location: index.php?message=Nao introduziu o login!");
+    header("Location: contacto.php?message=Nao introduziu o login!");
 }
 else
 {
     if($_REQUEST['password']=='')
     {
-        header("Location: index.php?message=Nao introduziu a password!");
+        header("Location: contacto.php?message=Nao introduziu a password!");
     }
     else
     {
@@ -42,7 +42,7 @@ else
         } else {
             mysql_close($con);
             $_SESSION['loggedin'] = "FALSE";
-            header("Location: index.php?message='Login incorrecto!!!'");
+            header("Location: contacto.php?message='Login incorrecto!!!'");
         }
 
     }
@@ -66,7 +66,7 @@ else
     else
     {
         $_SESSION['loggedin'] = "FALSE";
-        header("Location: index.php?message='Login incorrecto!!!'");
+        header("Location: contacto.php?message='Login incorrecto!!!'");
     }
 }*/
 

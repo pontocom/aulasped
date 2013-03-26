@@ -14,7 +14,7 @@ $query = "INSERT INTO contacto (nome, morada, email, telefone, foto) VALUES ('".
 
 if(mysql_db_query("agenda", $query, $db)) {
     mysql_close($db);
-    echo "<script>document.location='index.php'</script>";
+    echo "<script>document.location='contacto.php'</script>";
 } else {
     echo "Query Falhou!!!";
 }

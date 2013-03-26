@@ -3,7 +3,7 @@ session_start();
 
 if(!isset ($_SESSION['loggedin']) || $_SESSION['loggedin']=="FALSE")
 {
-    header("Location: index.php");
+    header("Location: contacto.php");
 }
 else
 {

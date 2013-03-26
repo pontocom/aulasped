@@ -1,6 +1,6 @@
 <?php
 session_start();
-if($_SESSION['loggedin']!="ON") header("Location:index.php");
+if($_SESSION['loggedin']!="ON") header("Location:contacto.php");
 
 $db = mysql_connect("127.0.0.1", "root", "") or die("Não foi possível ligar à BD!!!");
 

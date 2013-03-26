@@ -1,6 +1,6 @@
 <?php
 session_start();
-if($_SESSION['loggedin']!="ON") header("Location:index.php");
+if($_SESSION['loggedin']!="ON") header("Location:contacto.php");
 ?>
 <html>
     <head>

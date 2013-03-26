@@ -1,11 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2e5da05e-aaf9-4153-a03c-6197f1be8170" name="Default" comment="">
+    <list default="true" id="2e5da05e-aaf9-4153-a03c-6197f1be8170" name="Default" comment="Initial commit of code from all the different years!">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ped2013/upload/gjtgK.jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ped2013/myfiles/image.jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ped2013/upload/q42012chart.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ped2013/contacto/index.php" afterPath="$PROJECT_DIR$/ped2013/contacto/contacto.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/20092010/agenda/alterar.php" afterPath="$PROJECT_DIR$/20092010/agenda/alterar.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/20092010/agenda/apagar.php" afterPath="$PROJECT_DIR$/20092010/agenda/apagar.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ped2012/iagenda/crud.php" afterPath="$PROJECT_DIR$/ped2012/iagenda/crud.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ped2013/cliente/crud.php" afterPath="$PROJECT_DIR$/ped2013/cliente/crud.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ped2013/contacto/crud.php" afterPath="$PROJECT_DIR$/ped2013/contacto/crud.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/20092010/agenda/insere.php" afterPath="$PROJECT_DIR$/20092010/agenda/insere.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ped2011/agenda/login.php" afterPath="$PROJECT_DIR$/ped2011/agenda/login.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ped2012/iagenda/login.php" afterPath="$PROJECT_DIR$/ped2012/iagenda/login.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ped2011/agenda/logout.php" afterPath="$PROJECT_DIR$/ped2011/agenda/logout.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ped2012/iagenda/logout.php" afterPath="$PROJECT_DIR$/ped2012/iagenda/logout.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ped2011/agenda/main.php" afterPath="$PROJECT_DIR$/ped2011/agenda/main.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ped2012/iagenda/main.php" afterPath="$PROJECT_DIR$/ped2012/iagenda/main.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ped2012/iagenda/recuperar.php" afterPath="$PROJECT_DIR$/ped2012/iagenda/recuperar.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="aulasped_.iws" />
     <ignored path=".idea/workspace.xml" />
+    <file path="/Dummy.txt" changelist="2e5da05e-aaf9-4153-a03c-6197f1be8170" time="1364330754890" ignored="false" />
+    <file path="/xssed.html" changelist="2e5da05e-aaf9-4153-a03c-6197f1be8170" time="1363143159275" ignored="false" />
+    <file path="/xssed.php" changelist="2e5da05e-aaf9-4153-a03c-6197f1be8170" time="1363143545413" ignored="false" />
+    <file path="/teste.php" changelist="2e5da05e-aaf9-4153-a03c-6197f1be8170" time="1363145490100" ignored="false" />
+    <file path="/myfirstform.php" changelist="2e5da05e-aaf9-4153-a03c-6197f1be8170" time="1363198245740" ignored="false" />
+    <file path="/form01.php" changelist="2e5da05e-aaf9-4153-a03c-6197f1be8170" time="1363258122534" ignored="false" />
+    <file path="/formProcess.php" changelist="2e5da05e-aaf9-4153-a03c-6197f1be8170" time="1363259258220" ignored="false" />
+    <file path="/form02.php" changelist="2e5da05e-aaf9-4153-a03c-6197f1be8170" time="1363260678950" ignored="false" />
+    <file path="/myform.php" changelist="2e5da05e-aaf9-4153-a03c-6197f1be8170" time="1363380719052" ignored="false" />
+    <file path="/myFormProcessa.php" changelist="2e5da05e-aaf9-4153-a03c-6197f1be8170" time="1363381154433" ignored="false" />
+    <file path="/index.php" changelist="2e5da05e-aaf9-4153-a03c-6197f1be8170" time="1363987663891" ignored="false" />
+    <file path="/crud.php" changelist="2e5da05e-aaf9-4153-a03c-6197f1be8170" time="1363984876017" ignored="false" />
+    <file path="/testesessao.php" changelist="2e5da05e-aaf9-4153-a03c-6197f1be8170" time="1363866358628" ignored="false" />
+    <file path="/testesessao2.php" changelist="2e5da05e-aaf9-4153-a03c-6197f1be8170" time="1363865612549" ignored="false" />
+    <file path="/mysession.php" changelist="2e5da05e-aaf9-4153-a03c-6197f1be8170" time="1363986096358" ignored="false" />
+    <file path="/mysession2.php" changelist="2e5da05e-aaf9-4153-a03c-6197f1be8170" time="1363986473301" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,9 +53,83 @@
   <component name="DaemonCodeAnalyzer">
     <disable_hints />
   </component>
+  <component name="DatabaseView">
+    <flatten value="false" />
+    <groupTables value="false" />
+    <sortChildren value="false" />
+  </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="aulasped_" />
+  </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="contacto.php" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ped2013/contacto/contacto.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="29" column="29" selection-start="842" selection-end="842" vertical-scroll-proportion="0.5093677">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="logout.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ped2013/contacto/logout.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="5" column="27" selection-start="71" selection-end="71" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="crud.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ped2013/contacto/crud.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="78" column="156" selection-start="2214" selection-end="2214" vertical-scroll-proportion="0.0">
+              <folding>
+                <marker date="1363990442000" expanded="true" signature="2251:2360" placeholder="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="login.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ped2013/contacto/login.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="14" column="38" selection-start="426" selection-end="426" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="registration.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ped2013/contacto/registration.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="20" column="0" selection-start="0" selection-end="571" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="mysession.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ped2013/contacto/mysession.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="4" column="33" selection-start="87" selection-end="87" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="mysession2.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ped2013/contacto/mysession2.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="7" column="18" selection-start="102" selection-end="102" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FindManager">
     <FindUsagesManager>
@@ -30,6 +138,33 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitLogSettings">
+    <option name="myDateState">
+      <MyDateState />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/security/XSSpayload.txt" />
+        <option value="$PROJECT_DIR$/ped2013/myform.php" />
+        <option value="$PROJECT_DIR$/ped2013/myFormProcessa.php" />
+        <option value="$PROJECT_DIR$/ped2013/ciente/index.php" />
+        <option value="$PROJECT_DIR$/ped2013/cliente/index.php" />
+        <option value="$PROJECT_DIR$/ped2013/cliente/crud.php" />
+        <option value="$PROJECT_DIR$/ped2013/cliente/testesessao2.php" />
+        <option value="$PROJECT_DIR$/ped2013/cliente/testesessao.php" />
+        <option value="$PROJECT_DIR$/ped2013/contacto/mysession.php" />
+        <option value="$PROJECT_DIR$/ped2013/contacto/mysession2.php" />
+        <option value="$PROJECT_DIR$/ped2013/contacto/index.php" />
+        <option value="$PROJECT_DIR$/ped2013/contacto/registration.php" />
+        <option value="$PROJECT_DIR$/ped2013/contacto/logout.php" />
+        <option value="$PROJECT_DIR$/ped2013/contacto/login.php" />
+        <option value="$PROJECT_DIR$/ped2013/contacto/crud.php" />
+        <option value="$PROJECT_DIR$/ped2013/contacto/contacto.php" />
+      </list>
+    </option>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
@@ -44,7 +179,7 @@
     <OptionsSetting value="true" id="Update" />
     <OptionsSetting value="true" id="Status" />
     <OptionsSetting value="true" id="Edit" />
-    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="1" id="Add" />
     <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectReloadState">
@@ -63,6 +198,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -95,24 +231,69 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="aulasped_" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="aulasped" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ped2013" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="contacto" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="options.splitter.main.proportions" value="0.3" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="options.lastSelected" value="preferences.pluginManager" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="FullScreen" value="false" />
+    <property name="DefaultHtmlFileTemplate" value="Html5" />
+    <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="dynamic.classpath" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/ped2013" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
       <TestRunner />
       <method />
     </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugSession" factoryName="Local" singleton="true">
+      <JSDebuggerConfigurationSettings>
+        <option name="engineId" value="embedded" />
+        <option name="fileUrl" />
+      </JSDebuggerConfigurationSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="com.intellij.persistence.run.ConsoleRunConfigurationType" factoryName="Query Language Console">
+      <option name="VM_PARAMETERS" value="" />
+      <option name="USER_CFG_CLASS" />
+      <option name="CONTEXT_PROVIDER" />
+      <method />
+    </configuration>
     <list size="0" />
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
-  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false">
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false" SSL_PROTOCOLS="sslv3">
     <option name="USER" value="" />
     <option name="PASSWORD" value="" />
     <option name="mySSHConnectionTimeout" value="30000" />
@@ -122,7 +303,6 @@
     <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
     <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
     <option name="IGNORE_SPACES_IN_MERGE" value="false" />
-    <option name="DETECT_NESTED_COPIES" value="true" />
     <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
     <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
     <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
@@ -144,28 +324,45 @@
       <created>1362593086246</created>
       <updated>1362593086247</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Initial commit of code from all the different years!">
+      <created>1363145613304</created>
+      <updated>1363145613304</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Samples to process web forms with PHP.">
+      <created>1363276318253</created>
+      <updated>1363276318253</updated>
+    </task>
+    <task id="LOCAL-00005" summary="New data with the recent lessons, starting with the CRUD exercices!">
+      <created>1363386374257</created>
+      <updated>1363386374257</updated>
+    </task>
+    <task id="LOCAL-00006" summary="CRUD operations in PHP.">
+      <created>1363883760175</created>
+      <updated>1363883760175</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1680" height="1024" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32986537" sideWeight="0.6710963" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25275397" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18421052" sideWeight="0.99006623" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Database Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32890365" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32954547" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -204,9 +401,16 @@
     <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
     <option name="SHOW_FILE_HISTORY_DETAILS" value="true" />
     <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="true" />
+    <option name="SHOW_DIRTY_RECURSIVELY" value="false" />
+    <option name="LIMIT_HISTORY" value="true" />
+    <option name="MAXIMUM_HISTORY_ROWS" value="1000" />
+    <option name="UPDATE_FILTER_SCOPE_NAME" />
+    <option name="USE_COMMIT_MESSAGE_MARGIN" value="false" />
+    <option name="COMMIT_MESSAGE_MARGIN_SIZE" value="72" />
+    <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial commit of code from all the different years!" />
+    <option name="LAST_COMMIT_MESSAGE" value="CRUD operations in PHP." />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -217,28 +421,129 @@
     <option name="ACTIVE_VCS_NAME" />
     <option name="UPDATE_GROUP_BY_PACKAGES" value="false" />
     <option name="UPDATE_GROUP_BY_CHANGELIST" value="false" />
+    <option name="UPDATE_FILTER_BY_SCOPE" value="false" />
     <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
     <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
     <MESSAGE value="Initial commit of code from all the different years!" />
+    <MESSAGE value="Samples to process web forms with PHP." />
+    <MESSAGE value="New data with the recent lessons, starting with the CRUD exercices!" />
+    <MESSAGE value="CRUD operations in PHP." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/ped2011/form1.html">
+    <entry file="file://$PROJECT_DIR$/security/xssed.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+        <state line="3" column="2" selection-start="0" selection-end="53" vertical-scroll-proportion="0.052693207" />
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/com/jetbrains/php/lang/psi/stubs/data/mysql.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="539" column="9" selection-start="19466" selection-end="19466" vertical-scroll-proportion="0.34244946" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ped2013/myFormProcessa.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="27" column="0" selection-start="620" selection-end="620" vertical-scroll-proportion="0.47423887" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ped2013/myform.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="33" column="39" selection-start="1113" selection-end="1113" vertical-scroll-proportion="0.5796253" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ped2013/cliente/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="38" column="0" selection-start="176" selection-end="990" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ped2013/cliente/crud.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="60" column="73" selection-start="1706" selection-end="1706" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ped2013/cliente/testesessao2.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="3" selection-start="169" selection-end="169" vertical-scroll-proportion="0.1268116" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ped2013/cliente/testesessao.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="2" selection-start="394" selection-end="394" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ped2013/contacto/mysession2.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="18" selection-start="102" selection-end="102" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ped2011/form1.php">
+    <entry file="file://$PROJECT_DIR$/ped2013/contacto/mysession.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+        <state line="4" column="33" selection-start="87" selection-end="87" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/ped2013/contacto/registration.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="0" selection-start="0" selection-end="571" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ped2013/contacto/logout.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="27" selection-start="71" selection-end="71" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ped2013/contacto/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="36" column="7" selection-start="966" selection-end="966" vertical-scroll-proportion="0.36594203" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ped2013/contacto/login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="38" selection-start="426" selection-end="426" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ped2013/contacto/crud.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="78" column="156" selection-start="2214" selection-end="2214" vertical-scroll-proportion="0.0">
+          <folding>
+            <marker date="1363990442000" expanded="true" signature="2251:2360" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ped2013/contacto/contacto.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="29" column="29" selection-start="842" selection-end="842" vertical-scroll-proportion="0.5093677">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>
 

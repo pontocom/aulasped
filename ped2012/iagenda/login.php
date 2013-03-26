@@ -25,7 +25,7 @@ else
 {
     mysql_close($db);
     $status = "Dados de autenticação inválidos!";
-    header("Location: index.php?status=".htmlspecialchars($status));
+    header("Location: contacto.php?status=".htmlspecialchars($status));
 }
 
 ?>

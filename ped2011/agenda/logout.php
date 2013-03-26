@@ -6,5 +6,5 @@ session_start();
  */
 
 session_destroy();
-header("Location: index.php?message=Volte sempre!");
+header("Location: contacto.php?message=Volte sempre!");
 ?>
