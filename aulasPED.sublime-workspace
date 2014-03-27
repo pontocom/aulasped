@@ -1,0 +1,505 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ti",
+				"title	Tag"
+			],
+			[
+				"json",
+				"json_encode"
+			],
+			[
+				"php",
+				"phpinfo"
+			],
+			[
+				"service",
+				"serviceAlert"
+			],
+			[
+				"services",
+				"servicesnok"
+			],
+			[
+				"re",
+				"result"
+			],
+			[
+				"stat",
+				"statusmessage"
+			],
+			[
+				"serv",
+				"servicesnok"
+			],
+			[
+				"id",
+				"id_default_account"
+			],
+			[
+				"d",
+				"default"
+			],
+			[
+				"nu",
+				"num_unk"
+			],
+			[
+				"Ti",
+				"Titanium"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "ped2014/hello2.php",
+			"settings":
+			{
+				"buffer_size": 209,
+				"line_ending": "Unix",
+				"name": "<?php"
+			}
+		},
+		{
+			"file": "ped2013/contacto/crud.php",
+			"settings":
+			{
+				"buffer_size": 2517,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "ped2013/contacto/index.php",
+			"settings":
+			{
+				"buffer_size": 1720,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/Titanium Build/Titanium.sublime-build",
+	"command_palette":
+	{
+		"height": 287.0,
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: re",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"instaa",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 602.0
+	},
+	"console":
+	{
+		"height": 296.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Volumes/UserData/carlosserrao/Sites/aulasped/ped2014/hello.php",
+		"/Volumes/UserData/carlosserrao/Sites/aulasped/ped2014/arrays.php",
+		"/Volumes/UserData/carlosserrao/Sites/aulasped/teste.php",
+		"/Volumes/UserData/carlosserrao/Library/Application Support/Sublime Text 2/Packages/User/SublimeHighlight.sublime-settings",
+		"/Volumes/UserData/carlosserrao/Sites/aulasped/formulario.php",
+		"/Volumes/UserData/carlosserrao/Library/Application Support/Sublime Text 2/Packages/Highlight/SublimeHighlight.sublime-settings",
+		"/Volumes/UserData/carlosserrao/Sites/aulasped/tiago.php",
+		"/Volumes/UserData/carlosserrao/Library/Application Support/Sublime Text 2/Packages/Highlight/README.md",
+		"/Volumes/UserData/carlosserrao/Documents/Development/Lighthouse/lighthouse/app/controllers/activeAlarmDetail.js",
+		"/Volumes/UserData/carlosserrao/Documents/Development/Lighthouse/lighthouse/app/views/main.xml",
+		"/Volumes/UserData/carlosserrao/Documents/Development/Lighthouse/lighthouse/app/views/index.xml",
+		"/Volumes/UserData/carlosserrao/Documents/Development/Lighthouse/lighthouse/app/controllers/userProfile.js",
+		"/Volumes/UserData/carlosserrao/Documents/Development/Lighthouse/lighthouse/app/controllers/servicesList.js",
+		"/Volumes/UserData/carlosserrao/Documents/Development/Lighthouse/lighthouse/app/controllers/serviceGroupsList.js",
+		"/Volumes/UserData/carlosserrao/Documents/Development/Lighthouse/lighthouse/app/controllers/serviceDetail.js",
+		"/Volumes/UserData/carlosserrao/Documents/Development/Lighthouse/lighthouse/app/controllers/main.js",
+		"/Volumes/UserData/carlosserrao/Documents/Development/Lighthouse/lighthouse/app/views/userProfile.xml",
+		"/Volumes/UserData/carlosserrao/Documents/Development/Lighthouse/lighthouse/app/styles/userProfile.tss",
+		"/Volumes/UserData/carlosserrao/Documents/Development/Lighthouse/lighthouse/app/styles/index.tss",
+		"/Volumes/UserData/carlosserrao/Documents/Development/Lighthouse/lighthouse/app/controllers/index.js",
+		"/Volumes/UserData/carlosserrao/Documents/Development/Lighthouse/lighthouse/app/views/serviceDetail.xml",
+		"/Volumes/UserData/carlosserrao/Documents/Development/Lighthouse/lighthouse/app/styles/main.tss",
+		"/Volumes/UserData/carlosserrao/Documents/Development/Lighthouse/lighthouse/app/views/activeAlarmDetail.xml",
+		"/Volumes/UserData/carlosserrao/Documents/Development/Lighthouse/lighthouse/app/views/serviceGroupsList.xml",
+		"/Volumes/UserData/carlosserrao/Documents/Development/Lighthouse/lighthouse/app/views/servicesList.xml",
+		"/Volumes/UserData/carlosserrao/Documents/Development/Lighthouse/lighthouse/app/styles/serviceDetail.tss",
+		"/Volumes/UserData/carlosserrao/Documents/Development/Lighthouse/lighthouse/app/styles/activeAlarmDetail.tss",
+		"/Volumes/UserData/carlosserrao/Documents/Development/Lighthouse/lighthouse/app/styles/serviceGroupsList.tss",
+		"/Volumes/UserData/carlosserrao/Documents/Development/Lighthouse/lighthouse/app/styles/servicesList.tss",
+		"/Volumes/UserData/carlosserrao/Documents/Development/Lighthouse/LighthouseAlarm/tiapp.xml",
+		"/Volumes/UserData/carlosserrao/Documents/Development/Lighthouse/LighthouseAlarm/app/controllers/index.js",
+		"/Volumes/UserData/carlosserrao/Documents/Development/Lighthouse/LighthouseAlarm/app/controllers/serviceGroupsList.js",
+		"/Volumes/UserData/carlosserrao/Documents/Development/Lighthouse/LighthouseAlarm/app/views/servicesList.xml",
+		"/Volumes/UserData/carlosserrao/Documents/Development/Lighthouse/LighthouseAlarm/app/controllers/servicesList.js",
+		"/Volumes/UserData/carlosserrao/Documents/Development/Lighthouse/LighthouseAlarm/app/views/serviceGroupsList.xml",
+		"/Volumes/UserData/carlosserrao/Documents/Development/Lighthouse/LighthouseAlarm/app/styles/servicesList.tss",
+		"/Volumes/UserData/carlosserrao/Documents/Development/Lighthouse/LighthouseAlarm/app/controllers/activeAlarmDetail.js",
+		"/Volumes/UserData/carlosserrao/Documents/Development/Lighthouse/LighthouseAlarm/app/styles/serviceDetail.tss",
+		"/Volumes/UserData/carlosserrao/Documents/Development/Lighthouse/LighthouseAlarm/app/views/main.xml",
+		"/Volumes/UserData/carlosserrao/Documents/Development/Lighthouse/LighthouseAlarm/app/views/index.xml",
+		"/Volumes/UserData/carlosserrao/Documents/Development/Lighthouse/LighthouseAlarm/app/styles/serviceGroupsList.tss",
+		"/Volumes/UserData/carlosserrao/Documents/Development/Lighthouse/LighthouseAlarm/app/controllers/serviceDetail.js",
+		"/Volumes/UserData/carlosserrao/Documents/Development/Lighthouse/LighthouseAlarm/app/views/serviceDetail.xml",
+		"/Volumes/UserData/carlosserrao/Documents/Development/Lighthouse/LighthouseAlarm/app/controllers/main.js",
+		"/Volumes/UserData/carlosserrao/Documents/Development/Lighthouse/LighthouseAlarm/app/styles/main.tss",
+		"/Volumes/UserData/carlosserrao/Documents/Development/Lighthouse/LighthouseAlarm/app/alloy.js",
+		"/Volumes/UserData/carlosserrao/Library/Caches/Cleanup At Startup/Transmit/3CBD0E13-C5C7-4A69-8069-CE4E6D09359F/User.class.php",
+		"/Volumes/UserData/carlosserrao/Documents/Development/Lighthouse/LighthouseAlarm/app/styles/index.tss",
+		"/Volumes/UserData/carlosserrao/Documents/Development/Lighthouse/lhAlarm/Resources/app.js",
+		"/Volumes/UserData/carlosserrao/Downloads/TiPlatformConnect-master/Resources/twitter.js",
+		"/Volumes/UserData/carlosserrao/Downloads/TiPlatformConnect-master/Resources/app.js",
+		"/Volumes/UserData/carlosserrao/Documents/Development/OombieGo Titanium/ooombie-v2/BackOffice/social_hub/login.php",
+		"/Volumes/UserData/carlosserrao/Library/Caches/Cleanup At Startup/Transmit/AAF7ADDC-6277-4A94-BEFE-E126229E2907/sendCheckin.php",
+		"/Volumes/UserData/carlosserrao/Documents/Development/OombieGo Titanium/ooombie-v2/BackOffice/Oombiestores/oombieapi/venues.php",
+		"/Volumes/UserData/carlosserrao/Documents/Development/OombieGo Titanium/ooombie-v2/BackOffice/Oombiestores/oombieapi/registerFacebookUser.php",
+		"/Volumes/UserData/carlosserrao/Documents/Development/OombieGo Titanium/ooombie-v2/BackOffice/Oombiestores/oombieapi/checkin.php",
+		"/Volumes/UserData/carlosserrao/Documents/Development/OombieGo Titanium/ooombie-v2/BackOffice/Oombiestores/classes/Card.class.php",
+		"/Volumes/UserData/carlosserrao/Documents/Development/OombieGo Titanium/ooombie-v2/BackOffice/Oombiestores/classes/Catalog.class.php",
+		"/Volumes/UserData/carlosserrao/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Volumes/UserData/carlosserrao/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Volumes/UserData/carlosserrao/Downloads/TiPlatformConnect-master/Resources/foursquare.js",
+		"/Volumes/UserData/carlosserrao/Library/Caches/Cleanup At Startup/Transmit/57D22A18-9659-4363-8B95-751A3AAFE59C/getVenueDetails.php",
+		"/Volumes/UserData/carlosserrao/Sites/oombieportal_v2/controllers/functions/fanart.php",
+		"/Volumes/UserData/carlosserrao/Documents/Development/OombieGo Titanium/ooombie-v2/App/oombie/app/controllers/user_profile.js",
+		"/Volumes/UserData/carlosserrao/Documents/Development/OombieGo Titanium/app/controllers/user_profile.js",
+		"/Volumes/UserData/carlosserrao/Documents/Development/OombieGo Titanium/ooombie-v2/App/oombie/app/controllers/index.js"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"authorize",
+			"twitter",
+			"foursquare"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "ped2014/hello2.php",
+					"settings":
+					{
+						"buffer_size": 209,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"auto_name": "<?php",
+							"codeintel": true,
+							"codeintel_config":
+							{
+								"JavaScript":
+								{
+									"codeintel_max_recursive_dir_depth": 2.0,
+									"codeintel_scan_files_in_project": false,
+									"javascriptExtraPaths":
+									[
+									]
+								},
+								"PHP":
+								{
+									"codeintel_max_recursive_dir_depth": 5.0,
+									"codeintel_scan_files_in_project": false,
+									"phpExtraPaths":
+									[
+									]
+								},
+								"Python":
+								{
+									"env":
+									{
+									}
+								}
+							},
+							"codeintel_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_live": true,
+							"codeintel_live_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_max_recursive_dir_depth": 10.0,
+							"codeintel_scan_exclude_dir":
+							{
+								"JavaScript":
+								[
+									"/build/",
+									"/min/"
+								]
+							},
+							"codeintel_scan_files_in_project": true,
+							"codeintel_selected_catalogs":
+							[
+								"PyWin32",
+								"jQuery",
+								"Rails"
+							],
+							"codeintel_snippets": true,
+							"codeintel_syntax_map":
+							{
+								"Python Django": "Python"
+							},
+							"codeintel_tooltips": "popup",
+							"sublime_auto_complete": true,
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "ped2013/contacto/crud.php",
+					"settings":
+					{
+						"buffer_size": 2517,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 149.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "ped2013/contacto/index.php",
+					"settings":
+					{
+						"buffer_size": 1720,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 242.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 207.0,
+	"status_bar_visible": true
+}
