@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title>Teste de Forms</title>
+</head>
+<body>
+    <script>
+        function validarForm() {
+            var pass = document.getElementById("password").value;
+            if(pass.length < 8) {
+                alert("Password muito curta!!!");
+            } else {
+                document.getElementById("loginform").submit();
+            }
+        }
+    </script>
+
+    <form action="form.php" method="post" id="loginform" enctype="multipart/form-data">
+        <table>
+            <tr>
+                <td>
+                    Username:
+                </td>
+                <td>
+                    <input type="text" name="username" id="username">
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    Password:
+                </td>
+                <td>
+                    <input type="password" name="password" id="password">
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    Imagem:
+                </td>
+                <td>
+                    <input type="file" name="file">
+                </td>
+            </tr>
+            <tr>
+                <td>
+
+                </td>
+                <td>
+                    <input type="button" value="Enviar Dados" onclick="validarForm()">
+                </td>
+            </tr>
+        </table>
+    </form>
+</body>
+</html>

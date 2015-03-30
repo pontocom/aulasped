@@ -1,0 +1,6 @@
+CREATE TABLE contacts (
+  id INTEGER PRIMARY KEY,
+  nome VARCHAR(250) NOT NULL,
+  morada VARCHAR(250) NOT NULL,
+  email VARCHAR(250) NOT NULL
+);
