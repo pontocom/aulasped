@@ -19,7 +19,8 @@ tools:context=".MainActivity">
         android:text="New POI"
         android:id="@+id/buttonNewPOI"
         android:layout_alignParentBottom="true"
-        android:layout_centerHorizontal="true" />
+        android:layout_centerHorizontal="true"
+        android:onClick="addNewPOI"/>
 
 </RelativeLayout>
 <!-- From: file:/Users/cserrao/Sites/aulasped/ped2015/guideMe/app/src/main/res/layout/activity_main.xml -->

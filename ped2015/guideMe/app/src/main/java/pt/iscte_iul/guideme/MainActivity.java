@@ -11,6 +11,7 @@ import android.support.v7.app.ActionBarActivity;
 import android.util.Log;
 import android.view.Menu;
 import android.view.MenuItem;
+import android.view.View;
 import android.widget.EditText;
 
 import com.google.android.gms.maps.CameraUpdateFactory;
@@ -99,6 +100,10 @@ public class MainActivity extends ActionBarActivity implements OnMapReadyCallbac
         map.moveCamera(CameraUpdateFactory.newLatLngZoom(myPos, 13));
 
         new getPOIs().execute();
+    }
+
+    public void addNewPOI(View v) {
+        startActivity(new Intent(MainActivity.this, AddPOIActivity.class));
     }
 
     private class getPOIs extends AsyncTask<String, Void, String> {

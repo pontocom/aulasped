@@ -2,11 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2e5da05e-aaf9-4153-a03c-6197f1be8170" name="Default" comment="Initial commit of code from all the different years!">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dataSources.xml" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/aulasPED/.idea/workspace.xml" afterPath="$PROJECT_DIR$/aulasPED/.idea/workspace.xml" />
     </list>
     <ignored path="aulasped_.iws" />
     <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,60 +33,74 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Person.class.php" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="Person.class.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ped2014/person/Person.class.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="34" column="2" selection-start="758" selection-end="758" vertical-scroll-proportion="-21.25" vertical-offset="0" max-vertical-offset="600">
+            <state vertical-scroll-proportion="0.0" vertical-offset="510" max-vertical-offset="600">
+              <caret line="34" column="2" selection-start-line="34" selection-start-column="2" selection-end-line="34" selection-end-column="2" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="login.php" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="login.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ped2014/person/login.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="53" column="38" selection-start="1259" selection-end="1259" vertical-scroll-proportion="-29.666666" vertical-offset="83" max-vertical-offset="975">
+            <state vertical-scroll-proportion="0.0" vertical-offset="83" max-vertical-offset="975">
+              <caret line="53" column="38" selection-start-line="53" selection-start-column="38" selection-end-line="53" selection-end-column="38" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.php" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="main.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ped2014/person/main.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="2" selection-start="162" selection-end="162" vertical-scroll-proportion="0.13289036" vertical-offset="0" max-vertical-offset="903">
+            <state vertical-scroll-proportion="0.0" vertical-offset="120" max-vertical-offset="210">
+              <caret line="8" column="2" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="2" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="User.class.php" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ped2015/guideMe/guideme/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="360">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="poi.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ped2015/guideMe/guideme/poi.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1980">
+              <caret line="0" column="42" selection-start-line="0" selection-start-column="42" selection-end-line="0" selection-end-column="42" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="User.class.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ped2014/person/User.class.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="0" selection-start="89" selection-end="89" vertical-scroll-proportion="-3.75" vertical-offset="0" max-vertical-offset="810">
+            <state vertical-scroll-proportion="0.0" vertical-offset="90" max-vertical-offset="810">
+              <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="register.php" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="register.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ped2014/person/register.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="54" column="51" selection-start="1151" selection-end="1151" vertical-scroll-proportion="-17.75" vertical-offset="384" max-vertical-offset="1005">
-              <folding>
-                <marker date="1396041975000" expanded="true" signature="70:927" placeholder="..." />
-                <marker date="1396041975000" expanded="true" signature="91:919" placeholder="..." />
-                <marker date="1396041975000" expanded="true" signature="135:911" placeholder="..." />
-                <marker date="1396041975000" expanded="true" signature="145:902" placeholder="..." />
-                <marker date="1396041975000" expanded="true" signature="153:231" placeholder="..." />
-                <marker date="1396041975000" expanded="true" signature="239:321" placeholder="..." />
-                <marker date="1396041975000" expanded="true" signature="329:420" placeholder="..." />
-                <marker date="1396041975000" expanded="true" signature="428:501" placeholder="..." />
-                <marker date="1396041975000" expanded="true" signature="509:584" placeholder="..." />
-                <marker date="1396041975000" expanded="true" signature="592:671" placeholder="..." />
-                <marker date="1396041975000" expanded="true" signature="679:760" placeholder="..." />
-                <marker date="1396041975000" expanded="true" signature="768:891" placeholder="..." />
-              </folding>
+            <state vertical-scroll-proportion="0.0" vertical-offset="384" max-vertical-offset="1005">
+              <caret line="54" column="51" selection-start-line="54" selection-start-column="51" selection-end-line="54" selection-end-column="51" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -105,53 +121,21 @@
     </option>
   </component>
   <component name="IdeDocumentHistory">
-    <option name="changedFiles">
+    <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/ped2013/ciente/index.php" />
-        <option value="$PROJECT_DIR$/ped2013/cliente/index.php" />
-        <option value="$PROJECT_DIR$/ped2013/cliente/crud.php" />
-        <option value="$PROJECT_DIR$/ped2013/cliente/testesessao2.php" />
-        <option value="$PROJECT_DIR$/ped2013/cliente/testesessao.php" />
-        <option value="$PROJECT_DIR$/ped2013/contacto/mysession.php" />
-        <option value="$PROJECT_DIR$/ped2013/contacto/mysession2.php" />
-        <option value="$PROJECT_DIR$/ped2013/contacto/index.php" />
-        <option value="$PROJECT_DIR$/ped2013/contacto/registration.php" />
-        <option value="$PROJECT_DIR$/ped2013/contacto/logout.php" />
-        <option value="$PROJECT_DIR$/ped2013/contacto/login.php" />
-        <option value="$PROJECT_DIR$/ped2013/contacto/crud.php" />
-        <option value="$PROJECT_DIR$/ped2013/contacto/contacto.php" />
-        <option value="$PROJECT_DIR$/add.php" />
-        <option value="$PROJECT_DIR$/tiago.php" />
-        <option value="$PROJECT_DIR$/teste.php" />
-        <option value="$PROJECT_DIR$/ped2014/hello2.php" />
-        <option value="$PROJECT_DIR$/ped2014/phpinfo.php" />
-        <option value="$PROJECT_DIR$/ped2014/arrays2.php" />
-        <option value="$PROJECT_DIR$/ped2014/classes.php" />
-        <option value="$PROJECT_DIR$/ped2014/recebe.php" />
-        <option value="$PROJECT_DIR$/ped2014/envia.html" />
-        <option value="$PROJECT_DIR$/ped2014/forms/bootstrap.php" />
-        <option value="$PROJECT_DIR$/ped2014/forms/register.html" />
-        <option value="$PROJECT_DIR$/ped2014/forms/sendform.html" />
-        <option value="$PROJECT_DIR$/ped2014/forms/register.php" />
-        <option value="$PROJECT_DIR$/ped2014/forms/registershow.php" />
-        <option value="$PROJECT_DIR$/ped2014/forms/db.sql" />
-        <option value="$PROJECT_DIR$/ped2014/forms/Utilizador.php" />
-        <option value="$PROJECT_DIR$/ped2014/forms/receiveform.php" />
-        <option value="$PROJECT_DIR$/ped2014/forms/Pessoa.php" />
-        <option value="$PROJECT_DIR$/ped2014/forms/registerpessoa.php" />
-        <option value="$PROJECT_DIR$/ped2014/person/register.php" />
-        <option value="$PROJECT_DIR$/ped2014/person/Person.class.php" />
-        <option value="$PROJECT_DIR$/ped2014/person/User.class.php" />
-        <option value="$PROJECT_DIR$/ped2014/person/login.php" />
         <option value="$PROJECT_DIR$/ped2014/person/main.php" />
+        <option value="$PROJECT_DIR$/ped2015/guideMe/guideme/poi.js" />
       </list>
     </option>
   </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="y" value="22" />
-    <option name="width" value="1680" />
-    <option name="height" value="1024" />
+    <option name="y" value="23" />
+    <option name="width" value="1920" />
+    <option name="height" value="1173" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -167,7 +151,7 @@
     <option name="STATE" value="0" />
   </component>
   <component name="ProjectView">
-    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+    <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
       <showMembers />
       <showModules />
@@ -179,7 +163,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -200,12 +183,13 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="options.lastSelected" value="appearance" />
+    <property name="options.lastSelected" value="reference.settingsdialog.IDE.editor.colors" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="FullScreen" value="false" />
     <property name="DefaultHtmlFileTemplate" value="Html5" />
@@ -227,77 +211,91 @@
     <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
       <method />
     </configuration>
-    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
       <method />
     </configuration>
     <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
       <method />
     </configuration>
-    <configuration default="true" type="com.intellij.persistence.run.ConsoleRunConfigurationType" factoryName="Query Language Console">
-      <option name="VM_PARAMETERS" value="" />
-      <option name="USER_CFG_CLASS" />
-      <option name="CONTEXT_PROVIDER" />
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <pass-parent-envs>true</pass-parent-envs>
+      <envs />
       <method />
     </configuration>
     <list size="0" />
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
-  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false" SSL_PROTOCOLS="sslv3">
-    <option name="USER" value="" />
-    <option name="PASSWORD" value="" />
-    <option name="mySSHConnectionTimeout" value="30000" />
-    <option name="mySSHReadTimeout" value="30000" />
-    <option name="LAST_MERGED_REVISION" />
-    <option name="MERGE_DRY_RUN" value="false" />
-    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
-    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
-    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
-    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
-    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
-    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
-    <option name="FORCE_UPDATE" value="false" />
-    <option name="IGNORE_EXTERNALS" value="false" />
-    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  <component name="SvnConfiguration" myUseAcceleration="nothing">
+    <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="2e5da05e-aaf9-4153-a03c-6197f1be8170" name="Default" comment="" />
       <created>1362592736211</created>
+      <option name="number" value="Default" />
       <updated>1362592736211</updated>
     </task>
     <task id="LOCAL-00001" summary="Initial commit of code from all the different years!">
       <created>1362592941798</created>
+      <option name="number" value="00001" />
+      <option name="project" value="LOCAL" />
       <updated>1362592941798</updated>
     </task>
     <task id="LOCAL-00002" summary="Initial commit of code from all the different years!">
       <created>1362593086246</created>
+      <option name="number" value="00002" />
+      <option name="project" value="LOCAL" />
       <updated>1362593086247</updated>
     </task>
     <task id="LOCAL-00003" summary="Initial commit of code from all the different years!">
       <created>1363145613304</created>
+      <option name="number" value="00003" />
+      <option name="project" value="LOCAL" />
       <updated>1363145613304</updated>
     </task>
     <task id="LOCAL-00004" summary="Samples to process web forms with PHP.">
       <created>1363276318253</created>
+      <option name="number" value="00004" />
+      <option name="project" value="LOCAL" />
       <updated>1363276318253</updated>
     </task>
     <task id="LOCAL-00005" summary="New data with the recent lessons, starting with the CRUD exercices!">
       <created>1363386374257</created>
+      <option name="number" value="00005" />
+      <option name="project" value="LOCAL" />
       <updated>1363386374257</updated>
     </task>
     <task id="LOCAL-00006" summary="CRUD operations in PHP.">
       <created>1363883760175</created>
+      <option name="number" value="00006" />
+      <option name="project" value="LOCAL" />
       <updated>1363883760175</updated>
     </task>
     <task id="LOCAL-00007" summary="Some code from the last lessons!">
       <created>1364330839907</created>
+      <option name="number" value="00007" />
+      <option name="project" value="LOCAL" />
       <updated>1364330839907</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="New version of the POI.">
+      <created>1427744042464</created>
+      <option name="number" value="00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1427744042464</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="22" width="1680" height="1024" extended-state="6" />
+    <frame x="0" y="23" width="1920" height="1173" extended-state="6" />
     <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -305,25 +303,29 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32986537" sideWeight="0.6710963" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18154761" sideWeight="0.9977876" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.1341853" sideWeight="0.9977876" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Database Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32890365" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32954547" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
     <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
       <collection />
     </option>
   </component>
@@ -339,305 +341,377 @@
     <MESSAGE value="New data with the recent lessons, starting with the CRUD exercices!" />
     <MESSAGE value="CRUD operations in PHP." />
     <MESSAGE value="Some code from the last lessons!" />
-    <option name="LAST_COMMIT_MESSAGE" value="Some code from the last lessons!" />
+    <MESSAGE value="New version of the POI." />
+    <option name="LAST_COMMIT_MESSAGE" value="New version of the POI." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
+    <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/ped2014/envia.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="37" selection-start="102" selection-end="102" vertical-scroll-proportion="0.0" vertical-offset="90" max-vertical-offset="285" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ped2014/hello2.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="38" selection-start="155" selection-end="155" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="270" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ped2014/phpinfo.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="4" selection-start="98" selection-end="98" vertical-scroll-proportion="0.0" vertical-offset="120" max-vertical-offset="225" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="120" max-vertical-offset="225">
+          <caret line="8" column="4" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ped2014/arrays2.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="25" selection-start="301" selection-end="301" vertical-scroll-proportion="0.0" vertical-offset="270" max-vertical-offset="390" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="270" max-vertical-offset="390">
+          <caret line="18" column="25" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ped2014/classes.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="14" selection-start="247" selection-end="247" vertical-scroll-proportion="0.0" vertical-offset="315" max-vertical-offset="435" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="315" max-vertical-offset="435">
+          <caret line="21" column="14" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ped2014/recebe.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="33" selection-start="128" selection-end="128" vertical-scroll-proportion="0.0" vertical-offset="135" max-vertical-offset="255" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="135" max-vertical-offset="255">
+          <caret line="9" column="33" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ped2014/envia.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="37" selection-start="102" selection-end="102" vertical-scroll-proportion="0.0" vertical-offset="90" max-vertical-offset="285" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="90" max-vertical-offset="285">
+          <caret line="6" column="37" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ped2013/contacto/contacto.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="13" selection-start="699" selection-end="699" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1215" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1215">
+          <caret line="26" column="13" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ped2013/form01.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1095" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1095">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ped2013/form02.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="30" column="73" selection-start="874" selection-end="903" vertical-scroll-proportion="0.0" vertical-offset="450" max-vertical-offset="1965" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="450" max-vertical-offset="1965">
+          <caret line="30" column="73" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ped2013/contacto/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="36" column="7" selection-start="966" selection-end="966" vertical-scroll-proportion="0.0" vertical-offset="540" max-vertical-offset="1065" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="540" max-vertical-offset="1065">
+          <caret line="36" column="7" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ped2013/contacto/registration.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="2" selection-start="571" selection-end="571" vertical-scroll-proportion="0.0" vertical-offset="300" max-vertical-offset="390" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="300" max-vertical-offset="390">
+          <caret line="20" column="2" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ped2013/contacto/mysession.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="33" selection-start="87" selection-end="87" vertical-scroll-proportion="0.0" vertical-offset="60" max-vertical-offset="210" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="60" max-vertical-offset="210">
+          <caret line="4" column="33" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ped2013/contacto/mysession2.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="18" selection-start="102" selection-end="102" vertical-scroll-proportion="0.0" vertical-offset="105" max-vertical-offset="225" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="105" max-vertical-offset="225">
+          <caret line="7" column="18" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ped2013/diversos.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="480" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="480">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ped2013/exp01.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="720" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="720">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ped2013/contacto/crud.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="78" column="156" selection-start="2214" selection-end="2214" vertical-scroll-proportion="0.0" vertical-offset="1170" max-vertical-offset="1530" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="1170" max-vertical-offset="1530">
+          <caret line="78" column="156" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ped2013/cliente/testesessao.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="2" selection-start="394" selection-end="394" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <caret line="21" column="2" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ped2013/contacto/logout.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="27" selection-start="71" selection-end="71" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <caret line="5" column="27" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ped2013/contacto/login.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="38" selection-start="426" selection-end="426" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <caret line="14" column="38" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ped2013/contacto/contacto.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="13" selection-start="699" selection-end="699" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <caret line="26" column="13" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ped2013/contacto/crud.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="78" column="156" selection-start="2214" selection-end="2214" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <caret line="78" column="156" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ped2013/contacto/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="36" column="7" selection-start="966" selection-end="966" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <caret line="36" column="7" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ped2013/contacto/registration.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="2" selection-start="571" selection-end="571" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <caret line="20" column="2" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ped2013/contacto/mysession.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="33" selection-start="87" selection-end="87" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <caret line="4" column="33" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ped2013/contacto/mysession2.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="18" selection-start="102" selection-end="102" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <caret line="7" column="18" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ped2013/diversos.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ped2013/exp01.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ped2013/form01.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ped2013/form02.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="30" column="73" selection-start="874" selection-end="903" vertical-scroll-proportion="-0.0" vertical-offset="450" max-vertical-offset="1965" />
+        <state vertical-scroll-proportion="-0.0" vertical-offset="450" max-vertical-offset="1965">
+          <caret line="30" column="73" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ped2014/hello2.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="38" selection-start="155" selection-end="155" vertical-scroll-proportion="0.0" vertical-offset="105" max-vertical-offset="270" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="105" max-vertical-offset="270">
+          <caret line="7" column="38" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ped2014/phpinfo.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="4" selection-start="98" selection-end="98" vertical-scroll-proportion="0.0" vertical-offset="120" max-vertical-offset="225" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="120" max-vertical-offset="225">
+          <caret line="8" column="4" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ped2014/arrays2.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="25" selection-start="301" selection-end="301" vertical-scroll-proportion="0.0" vertical-offset="270" max-vertical-offset="390" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="270" max-vertical-offset="390">
+          <caret line="18" column="25" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ped2014/classes.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="14" selection-start="247" selection-end="247" vertical-scroll-proportion="0.0" vertical-offset="315" max-vertical-offset="435" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="315" max-vertical-offset="435">
+          <caret line="21" column="14" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ped2014/recebe.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="33" selection-start="128" selection-end="128" vertical-scroll-proportion="0.0" vertical-offset="135" max-vertical-offset="255" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="135" max-vertical-offset="255">
+          <caret line="9" column="33" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ped2014/envia.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="37" selection-start="102" selection-end="102" vertical-scroll-proportion="0.09966777" vertical-offset="0" max-vertical-offset="903" />
+        <state vertical-scroll-proportion="0.09966777" vertical-offset="0" max-vertical-offset="903">
+          <caret line="6" column="37" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ped2014/forms/bootstrap.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="42" selection-start="299" selection-end="371" vertical-scroll-proportion="0.36231884" vertical-offset="0" max-vertical-offset="621">
-          <folding />
+        <state vertical-scroll-proportion="0.36231884" vertical-offset="0" max-vertical-offset="621">
+          <caret line="15" column="42" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ped2014/forms/register.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="33" selection-start="823" selection-end="823" vertical-scroll-proportion="0.0" vertical-offset="345" max-vertical-offset="510">
-          <folding />
+        <state vertical-scroll-proportion="0.0" vertical-offset="345" max-vertical-offset="510">
+          <caret line="23" column="33" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ped2014/forms/db.sql">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="2" selection-start="127" selection-end="330" vertical-scroll-proportion="0.3488372" vertical-offset="0" max-vertical-offset="645">
-          <folding />
+        <state vertical-scroll-proportion="0.3488372" vertical-offset="0" max-vertical-offset="645">
+          <caret line="15" column="2" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ped2014/forms/registershow.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="69" selection-start="711" selection-end="711" vertical-scroll-proportion="0.44959128" vertical-offset="15" max-vertical-offset="1275" />
+        <state vertical-scroll-proportion="0.44959128" vertical-offset="15" max-vertical-offset="1275">
+          <caret line="23" column="69" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ped2014/forms/sendform.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="13" selection-start="210" selection-end="210" vertical-scroll-proportion="0.0" vertical-offset="150" max-vertical-offset="345">
-          <folding />
+        <state vertical-scroll-proportion="0.0" vertical-offset="150" max-vertical-offset="345">
+          <caret line="10" column="13" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ped2014/forms/receiveform.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="0" selection-start="363" selection-end="363" vertical-scroll-proportion="0.0" vertical-offset="285" max-vertical-offset="405">
-          <folding />
+        <state vertical-scroll-proportion="0.0" vertical-offset="285" max-vertical-offset="405">
+          <caret line="19" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ped2014/forms/registerpessoa.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="76" column="15" selection-start="1561" selection-end="1561" vertical-scroll-proportion="0.0" vertical-offset="203" max-vertical-offset="1260">
-          <folding />
+        <state vertical-scroll-proportion="0.0" vertical-offset="203" max-vertical-offset="1260">
+          <caret line="76" column="15" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ped2014/forms/Utilizador.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="42" selection-start="330" selection-end="332" vertical-scroll-proportion="-0.12077295" vertical-offset="270" max-vertical-offset="945">
-          <folding />
+        <state vertical-scroll-proportion="-0.12077295" vertical-offset="270" max-vertical-offset="945">
+          <caret line="18" column="42" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ped2014/forms/Pessoa.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="35" column="18" selection-start="963" selection-end="963" vertical-scroll-proportion="0.45723686" vertical-offset="247" max-vertical-offset="855">
-          <folding />
+        <state vertical-scroll-proportion="0.45723686" vertical-offset="247" max-vertical-offset="855">
+          <caret line="35" column="18" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ped2014/person/db.sql">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="6" selection-start="217" selection-end="221" vertical-scroll-proportion="0.20930232" vertical-offset="0" max-vertical-offset="645">
-          <folding />
+        <state vertical-scroll-proportion="0.20930232" vertical-offset="0" max-vertical-offset="645">
+          <caret line="9" column="6" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ped2014/person/register.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="54" column="51" selection-start="1151" selection-end="1151" vertical-scroll-proportion="-17.75" vertical-offset="384" max-vertical-offset="1005">
-          <folding>
-            <marker date="1396041975000" expanded="true" signature="70:927" placeholder="..." />
-            <marker date="1396041975000" expanded="true" signature="91:919" placeholder="..." />
-            <marker date="1396041975000" expanded="true" signature="135:911" placeholder="..." />
-            <marker date="1396041975000" expanded="true" signature="145:902" placeholder="..." />
-            <marker date="1396041975000" expanded="true" signature="153:231" placeholder="..." />
-            <marker date="1396041975000" expanded="true" signature="239:321" placeholder="..." />
-            <marker date="1396041975000" expanded="true" signature="329:420" placeholder="..." />
-            <marker date="1396041975000" expanded="true" signature="428:501" placeholder="..." />
-            <marker date="1396041975000" expanded="true" signature="509:584" placeholder="..." />
-            <marker date="1396041975000" expanded="true" signature="592:671" placeholder="..." />
-            <marker date="1396041975000" expanded="true" signature="679:760" placeholder="..." />
-            <marker date="1396041975000" expanded="true" signature="768:891" placeholder="..." />
-          </folding>
+        <state vertical-scroll-proportion="0.0" vertical-offset="384" max-vertical-offset="1005">
+          <caret line="54" column="51" selection-start-line="54" selection-start-column="51" selection-end-line="54" selection-end-column="51" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ped2014/person/Person.class.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="34" column="2" selection-start="758" selection-end="758" vertical-scroll-proportion="-21.25" vertical-offset="0" max-vertical-offset="600">
+        <state vertical-scroll-proportion="0.0" vertical-offset="510" max-vertical-offset="600">
+          <caret line="34" column="2" selection-start-line="34" selection-start-column="2" selection-end-line="34" selection-end-column="2" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ped2014/person/User.class.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="0" selection-start="89" selection-end="89" vertical-scroll-proportion="-3.75" vertical-offset="0" max-vertical-offset="810">
+        <state vertical-scroll-proportion="0.0" vertical-offset="90" max-vertical-offset="810">
+          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ped2014/person/login.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="53" column="38" selection-start="1259" selection-end="1259" vertical-scroll-proportion="-29.666666" vertical-offset="83" max-vertical-offset="975">
+        <state vertical-scroll-proportion="0.0" vertical-offset="83" max-vertical-offset="975">
+          <caret line="53" column="38" selection-start-line="53" selection-start-column="38" selection-end-line="53" selection-end-column="38" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ped2014/person/main.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="2" selection-start="162" selection-end="162" vertical-scroll-proportion="0.13289036" vertical-offset="0" max-vertical-offset="903">
+        <state vertical-scroll-proportion="0.0" vertical-offset="120" max-vertical-offset="210">
+          <caret line="8" column="2" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="2" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ped2015/guideMe/guideme/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1055">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ped2015/guideMe/guideme/poi.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1980">
+          <caret line="0" column="42" selection-start-line="0" selection-start-column="42" selection-end-line="0" selection-end-column="42" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -658,4 +732,3 @@
     </states>
   </component>
 </project>
-

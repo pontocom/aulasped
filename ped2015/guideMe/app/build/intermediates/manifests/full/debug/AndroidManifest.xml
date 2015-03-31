@@ -53,6 +53,10 @@
             android:name="pt.iscte_iul.guideme.SettingsActivity"
             android:label="@string/title_activity_settings" >
         </activity>
+        <activity
+            android:name="pt.iscte_iul.guideme.AddPOIActivity"
+            android:label="@string/title_activity_add_poi" >
+        </activity>
     </application>
 
 </manifest>

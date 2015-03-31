@@ -5,7 +5,6 @@
       <driver-ref>mysql</driver-ref>
       <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
       <jdbc-url>jdbc:mysql://127.0.0.1/demo</jdbc-url>
-      <user-name>root</user-name>
       <libraries>
         <library>
           <url>jar://$PROJECT_DIR$/mysql-connector-java-5.1.22-bin.jar!/</url>
@@ -17,4 +16,3 @@
     </data-source>
   </component>
 </project>
-
